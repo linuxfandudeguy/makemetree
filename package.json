@@ -1,0 +1,17 @@
+{
+  "name": "makemeatree",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "tree": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "fs-extra": "^11.2.0",
+    "minimist": "^1.2.8"
+  }
+}
